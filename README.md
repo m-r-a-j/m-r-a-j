@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @m-r-a-j
+- 👋 Hi, I’m Manish Raj
 - 👀 I’m interested in Solar energy technologies like CSP and PV panels.
 - 🌱 I’m currently learning Machine learning and deep learning
 - 💞️ I’m looking to collaborate on 'Heliostat field design in Central Solar Tower' 
